@@ -1,0 +1,41 @@
+.layout-topbar {
+    position: fixed;
+    height: 56px;
+    background-color: #27292d;
+    width: 100%;
+    padding: 0;
+}
+
+hr {
+    border-top: 0.4px solid rgba(255, 255, 255, 0.12);
+    background-color: #27292D !important;
+    padding-top: 10px
+}
+
+.title {
+    margin: 1.5%;
+}
+
+.logo {
+    vertical-align: middle;
+    margin: 1.5%;
+}
+
+.logo-svg {
+    width: 60px;
+    fill: #F3F3F3;
+}
+
+.layout-topbar2 {
+    height: 56px;
+    background-color: #27292d;
+    width: 100%;
+    padding: 0.5%;
+    vertical-align: center;
+}
+
+.template {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}

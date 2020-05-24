@@ -1,0 +1,49 @@
+@import "./topbar.css";
+@import "./footer.css";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    overflow-x: hidden;
+}
+
+.img {
+    width: 50px;
+    border: 10px solid transparent;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.layout-main {
+    padding-top: 3%;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    margin-bottom: 3%;
+}
+
+.p-card {
+    font-size: 10pt !important;
+}
+
+.card {
+    width: 250px;
+    text-align: center;
+}
+
+.cards {
+    display: inline-block;
+    margin: 2%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid {
+    margin: 0 auto;
+    text-align: center;
+}
