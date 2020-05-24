@@ -45,9 +45,10 @@ export default {
         console.log(e);
       });
     },
-    openBio(username){
-     this.bio = TorreService.getBio(username);
-     this.$router.replace({name:'home', params:{}});
+   openBio(username){
+      console.log(username)
+     this.bio =  TorreService.getBio(username);
+     //this.$router.replace({name:'bio', params:{}});
 
 
     }
