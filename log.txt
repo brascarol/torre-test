@@ -1,4 +1,4 @@
-- Creating the project and installing all dependencies (primevue)
+- Creating the project and installing all dependencies (framework primevue)
 - Testing the API endpoints in postman
 - Maping the endpoints in a Service class
 - Using color e img from the torre.co
