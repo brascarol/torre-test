@@ -1,0 +1,10 @@
+- Creating the project and installing all dependencies (primevue)
+- Testing the API endpoints in postman
+- Maping the endpoints in a Service class
+- Using color e img from the torre.co
+- Creating the components 
+- Fixing issues with CORS policy
+- Configuring project to run on a server
+- Creating account in Heroku.com
+- Sending reporitory to github
+- Deploy of the application
